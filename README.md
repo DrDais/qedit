@@ -6,6 +6,10 @@
 Если у Вас есть вопросы, перейдите в секцию "Контакты".
 Используется лицензия GNU GPL.
 
+---
+![Image alt](https://addons.mozilla.org/user-media/previews/full/228/228908.png?modified=1622134213)
+---
+
 ## Контакты
 Создатель: FalongorDev, почта - newstudiobest@gmail.com
 
