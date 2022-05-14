@@ -1,5 +1,7 @@
 # qedit
-Текстовый редактор QEdit, со свободным кодом. Создан на PyQt5, python 3.10
+Текстовый редактор QEdit, со свободным кодом. Создан на PyQt5, python 3.10. Используется лицензия GNU GPL
+![image](https://user-images.githubusercontent.com/84371987/168411549-21b03f02-9c23-49cd-a2ef-924783fb72c0.png)
+
 
 ## Описание
 Данный текстовый редактор не следит за пользоваетелем, уважает его личные данные. Текстовый редактор не требует подключение к интернету.
@@ -29,6 +31,7 @@ Copyright 2021, 2022 Алексеев Бронислав
 ---
 
 ### Лицензия
+![image](https://user-images.githubusercontent.com/84371987/168411540-bafb4fa6-3aba-4a21-acb4-cd6affa167ac.png)
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
