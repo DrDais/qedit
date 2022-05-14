@@ -79,6 +79,7 @@ class Window(QMainWindow):
         self.editor.setFontWeight(QFont.Normal)
 
     def createToolBar(self):
+        """ Создание бара инструментов """
         toolbar = QToolBar()
 
         undoBtn = QAction(QIcon('undo.png'), 'undo', self)
